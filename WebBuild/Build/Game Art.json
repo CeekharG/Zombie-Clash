@@ -1,0 +1,17 @@
+{
+"companyName": "C Kompany",
+"productName": "Zombie Clash",
+"productVersion": "1.0",
+"dataUrl": "Game Art.data.unityweb",
+"asmCodeUrl": "Game Art.asm.code.unityweb",
+"asmMemoryUrl": "Game Art.asm.memory.unityweb",
+"asmFrameworkUrl": "Game Art.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.6f1"
+}
