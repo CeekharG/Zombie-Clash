@@ -1,7 +1,6 @@
-# Zombie-Clash
-RUN FOR YOUR LIFE…
-
-
+# Zombie-Clash 
+# RUN FOR YOUR LIFE…
+# LIVE SERVER: https://game.shikhargiri.com.np
 Description:
 • ZOMBIE CLASH IS A 2D STYLE SIDE-SCROLLER GAME.
 
